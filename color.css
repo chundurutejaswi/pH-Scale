@@ -1,0 +1,79 @@
+
+
+.body{
+      background-color: bisque;
+      padding: 25px;
+      color: azure;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h1{
+     color: aqua;
+     background-color: bisque;
+     padding: initial;
+}
+.p{
+    padding: 5px;
+    margin: 0px;
+}
+.p-zero{
+    background-color: rgb(240, 60, 126);
+    margin: 0px;
+}
+.p-one{
+    background-color: rgb(245, 74, 136);
+    margin: 0px;
+}
+.p-two{
+    background-color: rgb(241, 87, 143);
+    margin: 0px;
+}
+.p-three{
+    background-color: rgb(245, 95, 150);
+    margin: 0px;
+}
+.p-four{
+    background-color: rgb(250, 97, 153);
+    margin: 0px;
+}
+.p-five{
+    background-color: rgb(253, 102, 157);
+    margin: 0px;
+}
+.p-six{
+    background-color: rgb(252, 130, 175);
+    margin: 0px;
+}
+.p-seven{
+    background-color: rgb(90, 231, 154);
+    margin: 0px;
+}
+.p-eight{
+    background-color: rgb(60, 117, 240);
+    margin: 0px;
+}
+.p-nine{
+    background-color: rgb(89, 86, 248);
+    margin: 0px;
+}
+.p-ten{
+    background-color: rgb(84, 81, 247);
+    margin: 0px;
+}
+.p-eleven{
+    background-color: rgb(98, 71, 250);
+    margin: 0px;
+}
+.p-twelve{
+    background-color: rgb(36, 50, 250);
+    margin: 0px;
+}
+.p-thirteen{
+    background-color: rgb(59, 38, 252);
+    margin: 0px;
+}
+.p-fourteen{
+    background-color: rgb(24, 20, 255);
+    margin: 0px;
+}
+                        
+                                                                                                                                                                        
